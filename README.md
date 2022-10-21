@@ -67,7 +67,7 @@ As you can see above, the smaller batch size (16) gives us higher accuracy. With
 
  ![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Signals-with-the-help-of-RNN-LSTM/blob/main/Images/Batch-Size-RNN-Compare.png)
 
-**The Effect of the Number of Epochs**
+* **The Effect of the Number of Epochs**
  ![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Signals-with-the-help-of-RNN-LSTM/blob/main/Images/Epochs-LSTM.png)
 
  ![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Signals-with-the-help-of-RNN-LSTM/blob/main/Images/Epochs-LSTM-Compare.png)
@@ -77,7 +77,7 @@ As you can see above, the smaller batch size (16) gives us higher accuracy. With
  ![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Signals-with-the-help-of-RNN-LSTM/blob/main/Images/Epochs-RNN-Compare.png)
 
 
-**The Effect of Changing Noise Variance**
+* **The Effect of Changing Noise Variance**
 
 ![](https://github.com/Fateme-Azizabadi/Removing-Noise-from-Signals-with-the-help-of-RNN-LSTM/blob/main/Images/Variance.png)
 
